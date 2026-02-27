@@ -1,12 +1,63 @@
-# React + Vite
+# Gemini Clone 🤖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+This project is a Gemini Clone, an AI chatbot web application that allows users to enter prompts and receive AI-generated responses in real time. The goal of this project was to understand how AI chat applications work and how to integrate AI APIs into a frontend application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was built using React and Vite, focusing on clean UI, smooth user interaction, and proper application structure.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+* Chat interface similar to Gemini
+* User can enter prompts
+* Displays AI responses dynamically
+* Clean and responsive user interface
+* Fast performance using Vite
+* Proper component-based architecture
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js
+* Vite
+* JavaScript
+* HTML
+* CSS
+* AI API integration
+
+---
+
+## 🎯 What I Learned
+
+* How AI chatbot applications work
+* How to integrate AI APIs
+* React component structure
+* Handling user input and displaying responses
+* Building real-world frontend applications
+
+---
+
+## 🔮 Future Improvements
+
+* Add chat history
+* Add user authentication
+* Improve UI design
+* Add backend support
+* Deploy the project online
+
+---
+
+## 👨‍💻 Author
+
+Chakravarthi Eslavath
+
+GitHub: [https://github.com/Chakravarthi-SM](https://github.com/Chakravarthi-SM)
+
+---
+
+## ⭐ Conclusion
+
+This project helped me understand how modern AI-powered chat applications are built and improved my frontend development and API integration skills.
